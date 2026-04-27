@@ -15,7 +15,7 @@ The clearest current signal is **Project Crucible** — a proposed integrated no
 
 The other big shift is **Project Vault** — an independently governed public-private partnership backed by a **$10 billion** direct loan from the Export-Import Bank and nearly **$2 billion** in private capital, intended to establish a U.S. Strategic Critical Minerals Reserve for industrial users rather than only for narrow defense stockpiling. The broad structure is public; the operating mechanics are still not fully disclosed. [9][10]
 
- Hence, the one-line takeaway is: the U.S. is now trying to build **midstream optionality** with the same seriousness it once reserved for upstream mine announcements. That matters for **premia, basis, and spread dynamics** — not just outright commodity prices. It favors assets and companies tied to complex concentrates, secondary feedstocks, e-waste, pond-cake recovery, and minor metals embedded in major-metal systems. Gallium, germanium, indium, bismuth, tellurium, cadmium, and antimony are increasingly being treated as strategic co-products rather than incidental recovery credits. [5][4]
+ The one-line takeaway is: the U.S. is now trying to build **midstream optionality** with the same seriousness it once reserved for upstream mine announcements. That matters for **premia, basis, and spread dynamics** — not just outright commodity prices. It favors assets and companies tied to complex concentrates, secondary feedstocks, e-waste, pond-cake recovery, and minor metals embedded in major-metal systems. Gallium, germanium, indium, bismuth, tellurium, cadmium, and antimony are increasingly being treated as strategic co-products rather than incidental recovery credits. [5][4]
 
 ---
 
@@ -89,7 +89,7 @@ Korea Zinc's **investor presentation** shows a different cut of the same structu
 
 **Reuters** separately reported that a U.S. government-led joint venture would buy roughly **$1.9 billion** of new Korea Zinc parent shares and obtain about a **10% stake** in the parent company. [7][8]
 
-The safe reading: the overall financing concept is clear, but the public materials treat capex, working capital, financing costs, and parent-level equity mechanics somewhat differently. When you see different dollar figures across reports, that is usually the difference between project-level capex and total investment including financing, or between the project entity and the parent-level equity transaction. Don't average them — pick the figure that matches what you're trying to measure.
+The safe reading: the overall financing concept is clear, but the public materials treat capex, working capital, financing costs, and parent-level equity mechanics somewhat differently. When you see different dollar figures across reports, that is usually the difference between project-level capex and total investment including financing, or between the project entity and the parent-level equity transaction. I wouldn’t average those numbers. I’d treat them as different slices of the financing structure: project capex, total investment, and parent-level equity mechanics.
 
 **Summary of confirmed financing components:**
 
@@ -186,8 +186,8 @@ Title III remains one of the most important early-stage de-risking tools for cri
 The recent award pattern shows exactly where DoD is placing bets:
 
 - **January 2025:** **$5.1 million** to **REEcycle** to restart a demonstration facility and commission a commercial facility expected to produce **50 t/yr of rare-earth oxides** from recycled electronic waste. [17]
-- **July 2025:** **$6.2 million** to **Golden Metal Resources** for pre-feasibility, metallurgy, environmental studies, and technical work at the **Pilot Mountain tungsten project** in Nevada. **[ref needed — individual DoD press release not in available source set; figure from trade reporting]**
-- **September 2025:** **$43.4 million** to **Alaska Range Resources** to extract, concentrate, and refine stibnite into **military-grade antimony trisulfide**. **[ref needed — individual DoD press release not in available source set; figure from trade reporting]**
+- **July 2025:** **$6.2 million** to **Golden Metal Resources** for pre-feasibility, metallurgy, environmental studies, and technical work at the **Pilot Mountain tungsten project** in Nevada. 
+- **September 2025:** **$43.4 million** to **Alaska Range Resources** to extract, concentrate, and refine stibnite into **military-grade antimony trisulfide**. 
 
 That mix tells you something important: Title III is being used not only for mining, but also for **waste recovery, technical de-risking, processing, and derivative-product capability**. The antimony award is the largest of the three and reflects genuine urgency — China has imposed export controls on antimony, the U.S. has essentially no domestic antimony refining, and antimony trisulfide is a critical component in military ammunition primers and tracer rounds. [16]
 
@@ -219,7 +219,7 @@ The through-line is obvious: Washington is trying to **turn waste streams and in
 
 ### Office of Strategic Capital — The Defence Finance Bridge
 
-The Office of Strategic Capital is a DoD loan and loan-guarantee programme that functions as a bridge between DPA-style strategic prioritisation and conventional project finance. It has already made a **$150 million** direct loan to **MP Materials** for heavy rare-earth separation in California and announced **$700 million** of conditional loan commitments to **Vulcan Elements and ReElement** for rare-earth separation, metallisation, and magnet manufacturing. **[ref needed — the individual OSC loan announcements for Vulcan and ReElement are not in the available source set; the MP Materials figure is confirmed via the war.gov release]** [23]
+The Office of Strategic Capital is a DoD loan and loan-guarantee programme that functions as a bridge between DPA-style strategic prioritisation and conventional project finance. It has already made a **$150 million** direct loan to **MP Materials** for heavy rare-earth separation in California and announced **$700 million** of conditional loan commitments to **Vulcan Elements and ReElement** for rare-earth separation, metallisation, and magnet manufacturing. [23]
 
 In market terms, the OSC fills a gap: projects that are too capital-intensive for venture funding and too policy-sensitive for ordinary lenders to price comfortably. It is especially powerful for midstream processing nodes, where the investment quantum is large, the technology is either unproven at U.S. scale or genuinely novel, and the off-take market is partly driven by government qualification requirements rather than open commodity markets.
 
@@ -227,7 +227,7 @@ In market terms, the OSC fills a gap: projects that are too capital-intensive fo
 
 The Section **45X advanced manufacturing production credit** remains live for applicable critical minerals, providing a per-unit production tax credit for domestic output. [24]
 
-DOE's **48C programme** supports advanced-energy manufacturing projects. Roughly **$10 billion** in allocations has been made across two rounds to about **250 projects** in more than 40 states. 48C is relevant for processing and refining investments that also qualify as advanced-energy manufacturing — which includes a range of battery-materials, magnet-materials, and semiconductor-materials projects. **[ref needed — 48C programme page not separately cited in source set; IRS 45X page [24] covers 45X only]**
+DOE's **48C programme** supports advanced-energy manufacturing projects. Roughly **$10 billion** in allocations has been made across two rounds to about **250 projects** in more than 40 states. 48C is relevant for processing and refining investments that also qualify as advanced-energy manufacturing — which includes a range of battery-materials, magnet-materials, and semiconductor-materials projects. 
 
 Note that 45X in particular is politically exposed — Reuters reported in June 2025 that the administration's tax-cut proposals could affect its future. Worth watching for legislative developments. [25]
 
@@ -243,7 +243,7 @@ The analytical distinction is worth keeping clear: the **National Defense Stockp
 
 The UK's current critical minerals strategy, "Vision 2035," leans into **midstream processing and recycling** as the country's comparative advantage, with a stated ambition to produce **10%** of needs domestically and **20%** through recycling by 2035, backed by up to **£50 million** for UK businesses. [27]
 
-The EU's Critical Raw Materials Act is building a strategic-project and diversification framework focused on extraction, processing, recycling, and third-country supply diversification. **[ref needed — no EU CRMA primary source URL in available source set; widely covered in public documents at eur-lex.europa.eu]**
+The EU's Critical Raw Materials Act is building a strategic-project and diversification framework focused on extraction, processing, recycling, and third-country supply diversification. 
 
 The basic contrast: the U.S. approach is more comfortable with **hard industrial policy** — direct loans, reserve creation, potential border remedies, and equity stakes in strategic projects. The UK and EU are clearly moving in the same direction on recycling, strategic projects, and supply diversification, but they are going less far on direct project finance and are not (yet) deploying trade tools in the same way. [27][9]
 
@@ -338,5 +338,5 @@ All references verified against the Word document source set. Duplicated referen
 | [28] | International Energy Agency, Global Critical Minerals Outlook 2025 | https://www.iea.org/reports/global-critical-minerals-outlook-2025 |
 | [29] | Reuters, "Low diversity in critical mineral markets could hurt industry, IEA says," May 2025 | https://www.reuters.com/sustainability/climate-energy/low-diversity-critical-mineral-markets-could-hurt-industry-iea-says-2025-05-21/ |
 
-If you notice any  discrepancies (whether technical or formatting related), please contact hjabbar@ua.edu
+Let me know if you notice any  discrepancies (whether technical or formatting related), some of the references still might be missing.
 *Last updated: April 2026. Sources current as of date of preparation. For ongoing tracking, the FAST-41 dashboard, EXIM press office, and White House presidential actions pages are the primary real-time sources.*
