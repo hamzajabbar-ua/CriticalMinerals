@@ -1,6 +1,6 @@
 # U.S. Critical-Minerals Industrial Policy and Global Mining Dynamics
 
-*Prepared April 2026 · I pulled the references mainly from official government pages, company releases, permit dashboards, and recent market reporting. A few details from media/paywalled reports are included where useful, but I’ve tried to flag anything that is not fully confirmed in public documents.*
+*Prepared April 2026 · I pulled the references mainly from official government pages, company releases, permit dashboards, and recent market reporting. A few details from media/paywalled reports are included where useful, but I’ve tried to flag anything that is not fully confirmed in public documents. Thanks, Hamza.*
 
 ---
 
